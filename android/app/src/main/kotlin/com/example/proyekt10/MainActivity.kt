@@ -1,4 +1,4 @@
-package com.fagio.game.sim
+package com.veios.mini.io
 
 import io.flutter.embedding.android.FlutterActivity
 
